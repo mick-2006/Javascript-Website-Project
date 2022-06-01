@@ -1,3 +1,3 @@
-# > Javascript-Website-Project
- > A project for my year 10 ict class
- > 
+# Html sucks
+> A html much pain a
+> so is js :I
